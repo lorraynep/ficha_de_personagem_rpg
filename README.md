@@ -1,5 +1,5 @@
 # Gerador de ficha de personagem de RPG/
-O gerador de ficha de personagem de RPG cria, a partir da IA, uma ficha completa de personagem com o nome, resumo do personagem, atributos base e provável destino. Para gerar essa ficha, a IA faz uma sequencia de perguntas, que se inicia com o nome do personagem e qual o nível de dificuldade da aventura. A partir disso, ele gera uma pequena história onde você deve escolher entre duas opções que vão moldar a personalidade do personagem. Ao final das perguntas, será gerado a ficha de personagem. Confira abaixo um exemplo completo de como foi desenvolvido uma ficha.
+O Gerador de Ficha de Personagem de RPG utiliza inteligência artificial para criar uma ficha completa de personagem, incluindo nome, resumo do personagem, atributos base e um destino provável. Para produzir essa ficha, a IA conduz uma série de perguntas, começando pelo nome do personagem e pelo nível de dificuldade desejado para a aventura. A partir dessas respostas, a IA desenvolve uma breve narrativa, apresentando ao usuário escolhas que irão influenciar na personalidade do personagem. Ao término das perguntas, a ficha de personagem é gerada. Abaixo, apresentamos um exemplo completo do processo de desenvolvimento de uma ficha de personagem.
 
 ### Usuário: 
 > Oi
